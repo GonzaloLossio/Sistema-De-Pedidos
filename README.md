@@ -10,7 +10,7 @@ Sistema desarrollado para la gestión integral de pedidos en un servicio de deli
 
 ---
 
-### Funcionalidades Core
+### Funcionalidades Principales
 * **Administración de Clientes:** Gestión de datos personales, ubicación por distritos e historial operativo.
 * **Catálogo de Productos:** Control de platos, categorías y estructuras de precios.
 * **Procesamiento de Pedidos:** Registro detallado de transacciones, cálculo automático de subtotales y gestión de cantidades.
