@@ -1,8 +1,3 @@
-Para mantener la coherencia técnica y el estilo profesional de tus otros repositorios, aquí tienes la versión en Markdown para el Sistema de Gestión de Pedidos.
-
-Copia y pega este contenido en el README.md de ese proyecto:
-
-Markdown
 # Sistema de Gestión de Pedidos - Delivery
 
 ### Software de administración de servicios de comida en C++
